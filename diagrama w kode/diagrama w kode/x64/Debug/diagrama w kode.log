@@ -1,0 +1,5 @@
+﻿  diagrama w kode.cpp
+C:\Users\asus\Desktop\hpi_laby\laba_ipz_2\diagrama w kode\diagrama w kode\diagrama w kode.cpp(12,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\asus\Desktop\hpi_laby\laba_ipz_2\diagrama w kode\diagrama w kode\diagrama w kode.cpp(30,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\asus\Desktop\hpi_laby\laba_ipz_2\diagrama w kode\diagrama w kode\diagrama w kode.cpp(47,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+  diagrama w kode.vcxproj -> C:\Users\asus\Desktop\hpi_laby\laba_ipz_2\diagrama w kode\x64\Debug\diagrama w kode.exe
